@@ -1,0 +1,27 @@
+h1 {
+    font-weight: bold;
+    font-size: large;
+    text-align: center;
+}
+
+h2 {
+    font-size: medium;
+    margin-left: 1%;
+}
+
+h3 {
+    font-size: small;
+    width: 40%;
+    margin-left: 1%;
+}
+
+.lista {
+    font-size: small;
+    padding-top: 2%;
+}
+
+img {
+    border-radius: 10%;
+    border-width: 10%;
+    width: 80%;
+}
